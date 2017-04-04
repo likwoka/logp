@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logp", "logp.csproj", "{FFBE56D3-1001-4531-9CB7-2A5D55A7336B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logp-wpf", "..\logpw-wpf\logp-wpf\logp-wpf.csproj", "{73BF7060-A673-45D9-88D2-338B75D84D18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFBE56D3-1001-4531-9CB7-2A5D55A7336B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBE56D3-1001-4531-9CB7-2A5D55A7336B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBE56D3-1001-4531-9CB7-2A5D55A7336B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBE56D3-1001-4531-9CB7-2A5D55A7336B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73BF7060-A673-45D9-88D2-338B75D84D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BF7060-A673-45D9-88D2-338B75D84D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BF7060-A673-45D9-88D2-338B75D84D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BF7060-A673-45D9-88D2-338B75D84D18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
